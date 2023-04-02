@@ -1,6 +1,8 @@
 # First Personal Website
 ---
 Bu proje kapsamında Patika-Kodluyoruz İşbirliğiyle beraber takip ettiğim HTML dersleriyle beraber öğrendiklerimi uygulayabileceğim ilk websitemi yaratmış bulunmaktayım.
+* Index#1'de tasarlamış olduğum web sitesinin ilk halini,
+* Index#2'de ise en son güncellenmiş halini bulabilirsiniz.
 
 ### **Bu içerikle beraber projemde;**
   1. *Yazı tipleri kullanımı*,
